@@ -1,2 +1,2 @@
-# adv_ml_tf_gcp
-Advanced Machine Learning with Tensorflow on Google Cloud Platform
+# py_datascience
+UCSanDiegoX: DSE200x - Python for Data Science Coursenotes and Assignments
